@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sales Resmi Vivo – Budiman Alkhoiri</title>
+  <meta name="description" content="Sales HP Vivo terpercaya. Promo terbaru, harga terbaik, garansi resmi. Hubungi Budiman Alkhoiri via WhatsApp." />
+  <meta name="keywords" content="Vivo Indonesia, Sales Vivo, HP Vivo Murah, Promo Vivo" />
+
+  <!-- Open Graph for IG / FB / TikTok -->
+  <meta property="og:title" content="Sales Resmi Vivo – Budiman Alkhoiri" />
+  <meta property="og:description" content="Promo HP Vivo terbaru • Harga terbaik • Garansi resmi" />
+  <meta property="og:type" content="website" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f5f7fb;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(135deg, #1e3c72, #2a5298);
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 { margin: 0; font-size: 28px; }
+    header p { margin-top: 10px; font-size: 16px; }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    }
+
+    .cta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      margin-top: 20px;
+    }
+
+    .btn {
+      flex: 1;
+      text-align: center;
+      padding: 15px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #fff;
+    }
+
+    .btn-wa { background: #25D366; }
+    .btn-email { background: #007BFF; }
+
+    .products {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+    }
+
+    .product {
+      border: 1px solid #eee;
+      border-radius: 10px;
+      padding: 15px;
+      text-align: center;
+    }
+
+    .product h3 { margin: 10px 0 5px; }
+    .product p { font-size: 14px; color: #666; }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Sales Resmi Vivo Indonesia</h1>
+  <p>Budiman Alkhoiri • Promo • Garansi Resmi • Aman & Terpercaya</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>📱 Tentang Saya</h2>
+    <p>
+      Saya <strong>Budiman Alkhoiri</strong>, sales HP Vivo yang siap membantu Anda mendapatkan smartphone Vivo terbaik
+      dengan harga kompetitif, promo terbaru, dan garansi resmi.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>🔥 Produk Unggulan Vivo</h2>
+    <div class="products">
+      <div class="product">
+        <h3>Vivo Y Series</h3>
+        <p>Baterai besar, harga terjangkau</p>
+      </div>
+      <div class="product">
+        <h3>Vivo V Series</h3>
+        <p>Kamera jernih, desain premium</p>
+      </div>
+      <div class="product">
+        <h3>Vivo X Series</h3>
+        <p>Flagship, performa & kamera terbaik</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>💬 Hubungi Saya Sekarang</h2>
+    <p>Respon cepat • Konsultasi gratis • Bisa kirim katalog & harga</p>
+
+    <div class="cta">
+      <a class="btn btn-wa" href="https://wa.me/6282217306381" target="_blank">Chat WhatsApp</a>
+      <a class="btn btn-email" href="mailto:budimanalkhoiri@gmail.com">Kirim Email</a>
+    </div>
+  </div>
+
+</div>
+
+<footer>
+  © 2026 Budiman Alkhoiri • Sales Vivo Indonesia
+</footer>
+
+</body>
+</html>
